@@ -1,4 +1,4 @@
-# Zepto Recommendation System Case Study 
+# Zepto Recommendation System 
 
 ## Overview:
 This project is a hybrid recommendation system developed for Zepto, a quick commerce platform. It combines TF-IDF, BERT, and Item-based Collaborative Filtering to suggest complementary products based on user behavior. The system ensures contextually relevant recommendations, enhancing the overall shopping experience.
