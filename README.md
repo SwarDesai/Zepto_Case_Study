@@ -12,8 +12,10 @@ This project is a hybrid recommendation system developed for Zepto, a quick comm
 ## Methodology:
 TF-IDF Similarity:
   * Computes text-based similarity between product names and descriptions.
+    
 BERT Embeddings:
   * Captures deep semantic relationships between products for better recommendations.
+    
 Item-Based Collaborative Filtering:
   * Utilizes past purchase behavior to recommend frequently bought-together products.
 
